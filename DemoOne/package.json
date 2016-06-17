@@ -1,0 +1,28 @@
+{
+  "name": "dantegg",
+  "version": "0.0.1",
+  "description": "learning how to use webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "git",
+    "webpack"
+  ],
+  "author": "dantegg",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "image-webpack-loader": "^1.8.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
